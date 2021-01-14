@@ -1,5 +1,4 @@
 const mongoose = require('mongoose')
-const validator = require('validator')
 
 const mongoDBURL = process.env.MONGODB_URL
 
